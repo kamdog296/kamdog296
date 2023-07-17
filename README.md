@@ -1,5 +1,4 @@
- loadstring(game:HttpGet("https://raw.githubusercontent.com/V1per322/HypixelGames/main/Psx.lua"))()
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScripterX768/AdminPanel/main/AdminPanel.lua"))()
 
 <!---
 kamdog296/kamdog296 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
